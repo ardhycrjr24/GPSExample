@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPSExample</string>
+    <string name="gps_location_app">GPS Location App</string>
+    <string name="start_update">Start Location Updates</string>
+    <string name="stop_update">Stop Location Updates</string>
+    <string name="location_coordinates">Location Coordinates (Latitude, Longitude)</string>
+    <string name="location_value">1.23456, 123.45678</string>
+</resources>
